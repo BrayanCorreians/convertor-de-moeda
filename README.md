@@ -1,3 +1,6 @@
+## 𝑪𝒐𝒏𝒗𝒆𝒓𝒔𝒐𝒓 𝒅𝒆 𝒎𝒐𝒆𝒅𝒂𝒔
+
+
 # License
 >![](https://img.shields.io/badge/license-%20Escola%20Marista%20Ir.%20Ac%C3%A1cio-black) ![](https://img.shields.io/badge/version-0.3-white)
  
@@ -21,6 +24,8 @@ Este projeto foi desenvolvido na aula de PWI (Programação Web 1), ministrada p
 ✔️ Resultado do valor inserido;
  
 ✔️ Definir Taxas de câmbio;
+
+✔️ Definir taxas de câmbio manualmente
  
  
 # Funcionalidades JS utilizadas🔧
@@ -60,9 +65,13 @@ const exchangeRates = {
         valorConvertido = valor;
     }else{
         valorConvertido = valor * exchangeRates[daMoeda][paraMoeda];
-    }
- 
+    } 
 ~~~
+
+## COMO USAR
+1. Selecione a moeda de origem e destino BRL, EUR, USD E EUR.
+2. Insira o valor que deseja converter e tera o valor convertido.
+
  
  
  
