@@ -8,7 +8,7 @@
 ## Descrição do Projeto
 Este projeto foi desenvolvido na aula de PWI (Programação Web 1), ministrada pelo professor [Leonardo Rocha](https://github.com/leonardossrocha). O objetivo do projeto é aprender a converter valores de moedas, ainda de forma simples, porém logo esse projeto terá uma continuação mais aprimorada juntamente com o consumo de API.
  
- ##TELA DO PROJETO
+ ## TELA DO PROJETO
  ]![Tela do projeto](telinhapae.jpeg)
 
 
